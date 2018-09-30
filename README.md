@@ -6,12 +6,6 @@ I get a lot of questions by email. This way anyone can read the answer!
 
 Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever.
 
----
-
-<div align="center">Huge thanks to &nbsp;<a href="https://www.miles.in"><img src="https://user-images.githubusercontent.com/170270/34912034-3332ae4c-f8d6-11e7-8569-65b11486d003.png" width="80"></a>&nbsp; for sponsoring my open source work on <a href="https://www.patreon.com/sindresorhus">Patreon</a>.</div>
-
----
-
 ### Guidelines
 
 - Ensure your question hasn't already been answered.
